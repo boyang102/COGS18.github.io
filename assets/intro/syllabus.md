@@ -19,9 +19,9 @@ Welcome to COGS 18! The core goal of this class is to teach you introductory, ha
 | Lecture     | A00 | MWF  | 10:00a-10:50a | [CTL](https://map.concept3d.com/?id=1005#!s/CTL_Main?ct/18312) | 125 | Jason Flesicher |
 | Coding labs | A01 | W    | 6:00p-6:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
 |             | A02 | W    | 7:00p-7:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
-|             | A03 | W    | 11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
-|             | A04 | W    | 12:00p-12:50p | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
-|             | A05 | W    | 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
+|             | A03 | W    | 11:00a-11:50a | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Boning(Bonnie) Yang             |
+|             | A04 | W    | 12:00p-12:50p | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Boning(Bonnie) Yang             |
+|             | A05 | W    | 1:00p-1:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | Boning(Bonnie) Yang            |
 |             | A06 | W    | 2:00p-2:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
 |             | A07 | W    | 3:00p-3:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
 |             | A08 | W    | 4:00p-4:50p   | [CSB](https://map.concept3d.com/?id=1005#!s/CSB_Main?ct/18312) | 115 | TBD             |
